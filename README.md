@@ -26,3 +26,7 @@ It's possible that reading SMS messages to send from Excel file(.csv) and saving
 - Android App: [PC to Mobile USB SMS App](https://play.google.com/store/apps/details?id=com.usemodj.android.usbsms)
 
 - Windows Program: [PC to Mobile USB SMS Host](https://github.com/usemodj/pc-to-mobile-usb-sms)
+>  ** Download Zip file from "Clone or Download" button instead of directly saving the .msi file link.
+>
+>  Directly downloaded .msi file does not installed on Windows.
+  
